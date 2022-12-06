@@ -1,4 +1,8 @@
-### Hi there 👋
+_Departament of Genetics, State University of Rio de Janeiro, Brazil_
+
+**Evolutionary Biology -- Phylogenetics Molecular -- Evolution -- Population Genetics -- Marine Invertebrates**
+
+![](https://komarev.com/ghpvc/?username=depaulats&color=blue&style=flat-square&logo=github&label=PROFILE+VIEWS)
 
 <!--
 **depaulats/depaulats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
