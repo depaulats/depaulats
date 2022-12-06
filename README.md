@@ -1,6 +1,6 @@
 _Departament of Genetics, State University of Rio de Janeiro, Brazil_
 
-**Evolutionary Biology -- Phylogenetics Molecular -- Evolution -- Population Genetics -- Marine Invertebrates**
+**Evolutionary Biology • Phylogenetics Molecular • Evolution • Population Genetics • Marine Invertebrates**
 
 ![](https://komarev.com/ghpvc/?username=depaulats&color=blue&style=flat-square&logo=github&label=PROFILE+VIEWS)
 
